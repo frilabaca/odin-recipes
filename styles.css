@@ -1,0 +1,37 @@
+#mainh1 {
+    color:white;
+    text-align: center;
+}
+
+#mainlist {
+    text-align: center;
+    list-style: none;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #FBF37C;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: #58555A;
+}
+
+a {
+    color: black;
+}
+
+li,
+ol,
+p {
+    color: #b8b8b8;
+}
